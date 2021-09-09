@@ -8,7 +8,8 @@ So, where am I from? My parents are both Pakistani and were born there, while I 
 - Playing guitar and creating my own riffs/songs
 - Listening to music (and discovering new music)
 - Going on hikes, finding cool new spots and sights
-- 
+- Learning something new that is interesting
+- Eating good food with good people
 
 ### Photo Gallery
 
