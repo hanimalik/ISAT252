@@ -13,9 +13,9 @@ So, where am I from? My parents are both Pakistani and were born there, while I 
 
 ### Photo Gallery
 
-![Image](/assets/images/IMG_0002.JPG)
+![Some friends and I enjoying the JMU sunset (Location: East Campus Parking Deck)](/assets/images/IMG_0002.JPG)
 
-![Image](/assets/images/IMG_0023.JPG)
+![Some friends and I enjoying the JMU sunset (Location: East Campus Parking Deck)](/assets/images/IMG_0023.JPG)
 _Some friends and I enjoying the JMU sunset (Location: East Campus Parking Deck)_
 
 ![Image](/assets/images/IMG_1077.JPG)
