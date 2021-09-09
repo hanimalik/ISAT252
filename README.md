@@ -1,8 +1,10 @@
 ## Hani Malik's Personal Website
 
-You can use the [editor on GitHub](https://github.com/hanimalik/ISAT252/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal website! My name is Hani Malik, an ISAT major at JMU. I created this website for a couple of reasons. One to test and see how well I can use GitHub Pages, and two, because I had to for an assignment.
 
-Welcome to my personal website! My name is Hani Malik, an ISAT major at JMU.
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanimalik/ISAT252/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Markdown
 
@@ -27,11 +29,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanimalik/ISAT252/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
 Need to contact me? You can reach me here:
