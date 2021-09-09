@@ -19,6 +19,7 @@ So, where am I from? My parents are both Pakistani and were born there, while I 
 _Some friends and I enjoying the JMU sunset (Location: East Campus Parking Deck)_
 
 ![Image](/assets/images/IMG_1077.JPG)
+
 _Cherry Blossom tree (Location: Somewhere in DC)_
 
 
