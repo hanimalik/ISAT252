@@ -1,6 +1,6 @@
 ## Hani Malik's Personal Website
 
-Welcome to my personal website! My name is Hani Malik, an ISAT major at JMU. I created this website for a couple of reasons. One to test and see how well I can use GitHub Pages, and two, because I had to for an assignment. Read below to learn more about me and browse my website! '''hani 
+Welcome to my personal website! My name is Hani Malik, an ISAT major at JMU. I created this website for a couple of reasons. One to test and see how well I can use GitHub Pages, and two, because I had to for an assignment. Read below to learn more about me and browse my website!
 
 ### Who am I/Where am I from?
 
@@ -10,6 +10,9 @@ So, where am I from? My parents are both Pakistani and were born there, while I 
 - 
 
 ### Photo Gallery
+
+![Image](/assets/images/IMG_0002.JPG)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,6 +33,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Need to contact me? You can reach me here:
 
 Email: malik2hx@dukes.jmu.edu
-
-![Image](/assets/images/IMG_0002.JPG?raw=true)
 
