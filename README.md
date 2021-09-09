@@ -35,3 +35,5 @@ Need to contact me? You can reach me here:
 
 Email: malik2hx@dukes.jmu.edu
 
+![Image](/assets/images/IMG_0002.jpg)
+
