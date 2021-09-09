@@ -35,5 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Need to contact me? You can reach me here:
+
 Email: malik2hx@dukes.jmu.edu
 
