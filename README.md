@@ -35,5 +35,5 @@ Need to contact me? You can reach me here:
 
 Email: malik2hx@dukes.jmu.edu
 
-![alt text](https://github.com/hanimalik/ISAT252/blob/[main]/IMG_0002.jpg?raw=true)
+![alt text](https://github.com/hanimalik/ISAT252/blob/[main]/assets/images/IMG_0002.jpg?raw=true)
 
